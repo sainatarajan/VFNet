@@ -1,0 +1,12 @@
+h5py==3.12.1
+matplotlib==3.7.5
+nflows==0.14
+numpy==2.2.3
+pandas==2.2.3
+plyfile==1.1
+pyntcloud==0.3.1
+scikit_learn==1.6.1
+scipy==1.15.2
+torch==2.2.0+cu121
+tqdm==4.66.5
+trimesh==4.5.3
